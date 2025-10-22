@@ -6,6 +6,7 @@ import morgan from 'morgan';
 import authRoutes from './routes/authRoutes';
 import analyticsRoutes from './routes/analyticsRoutes';
 import userRoutes from './routes/userRoutes';
+import walletRoutes from './routes/walletRoutes';
 
 const app = express();
 
